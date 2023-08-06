@@ -1,5 +1,5 @@
 ## TLDR
-official Pytorch implementation of [**"Texture Learning Domain Randomization for Domain Generalized Segmentation"**](https://arxiv.org/abs/2303.11546) (ICCV2023).
+Official PyTorch implementation of [**"Texture Learning Domain Randomization for Domain Generalized Segmentation"**](https://arxiv.org/abs/2303.11546) (ICCV2023).
 
 ## Setup Environment
 
