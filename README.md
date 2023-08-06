@@ -1,6 +1,5 @@
-## Texture Learning Domain Randomization for Domain Generalized Segmentation (ICCV-2335)
-This repository is an anonymous submission of the code for "Texture Learning Domain Randomization for Domain Generalized Segmentation".
-
+## TLDR
+official Pytorch implementation of [**"Texture Learning Domain Randomization for Domain Generalized Segmentation"**](https://arxiv.org/abs/2303.11546) (ICCV2023).
 
 ## Setup Environment
 
